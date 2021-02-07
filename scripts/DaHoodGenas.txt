@@ -1,4 +1,4 @@
--- Este script cambia un minijuego
+-- Este script cambia un minijuego (development)
 
 -- Instances:
 
