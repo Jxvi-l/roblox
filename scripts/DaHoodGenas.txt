@@ -1,4 +1,4 @@
--- By E
+-- Este script cambia un minijuego
 
 -- Instances:
 
